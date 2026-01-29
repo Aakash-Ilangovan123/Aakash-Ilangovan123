@@ -31,8 +31,7 @@
 </p>
 
 ---
-### 🐍 Contribution Snake Game
-![snake animation](https://raw.githubusercontent.com/Aakash-Ilangovan123/Aakash-Ilangovan123/output/snake.svg)
+
 
 
 
