@@ -31,11 +31,9 @@
 </p>
 
 ---
+### 🎯 Developer XP Card
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true)
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
