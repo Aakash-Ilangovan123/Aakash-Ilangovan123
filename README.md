@@ -31,8 +31,9 @@
 </p>
 
 ---
-### 🎯 Developer XP Card
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true)
+### 🐍 Contribution Snake Game
+![snake animation](https://raw.githubusercontent.com/Aakash-Ilangovan123/Aakash-Ilangovan123/output/snake.svg)
+
 
 
 ---
