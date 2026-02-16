@@ -22,10 +22,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,PowerBI" />
 </p>
-### 📊 Data & Analytics Tools
+---
+<h3>📊 Data & Analytics Tools </h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50" alt="Excel"/>
+
+
 </p>
 
 
