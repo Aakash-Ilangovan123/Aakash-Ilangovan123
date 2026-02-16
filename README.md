@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aakashilangovan37/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
   </a>
-  <a href="aakashmdu307@gmail.com">
+  <a href="aakashmass123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail">
   </a>
 
