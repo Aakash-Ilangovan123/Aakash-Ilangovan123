@@ -29,7 +29,7 @@
 
 <p>
   <!-- Databricks -->
-  <img src="https://img.icons8.com/color/48/databricks.png" height="45" alt="Databricks"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" alt="Databricks"/>
 
 
   <!-- Snowflake -->
