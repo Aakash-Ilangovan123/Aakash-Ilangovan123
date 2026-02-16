@@ -25,7 +25,6 @@
 ### 📊 Data & Analytics Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="SQL Server"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50" alt="Excel"/>
 </p>
 
