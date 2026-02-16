@@ -29,7 +29,8 @@
 
 <p>
   <!-- Databricks -->
-  <img src="https://img.icons8.com/color/48/databricks.png" height="40" alt="Databricks"/>
+  <img src="https://img.icons8.com/color/48/databricks.png" height="45" alt="Databricks"/>
+
 
   <!-- Snowflake -->
   <img src="https://img.icons8.com/color/48/snowflake.png" height="45" alt="Snowflake"/>
