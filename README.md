@@ -22,13 +22,44 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,PowerBI" />
 </p>
+
 ---
-<h3>📊 Data & Analytics Tools </h3>
+
+### 🤖 Data, AI & Tools
+
 <p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="50" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="50" alt="Excel"/>
+  <!-- Databricks -->
+  <img src="https://img.icons8.com/color/48/databricks.png" height="45" alt="Databricks"/>
 
+  <!-- Snowflake -->
+  <img src="https://img.icons8.com/color/48/snowflake.png" height="45" alt="Snowflake"/>
 
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="45" alt="Power BI"/>
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45" alt="Excel"/>
+</p>
+
+---
+
+### 🧠 AI Tools & Platforms
+
+<p>
+  <!-- ChatGPT -->
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="45" alt="ChatGPT"/>
+
+  <!-- Cursor AI (no official icon available, using badge) -->
+  <img src="https://img.shields.io/badge/Cursor-AI-black?style=for-the-badge" />
+
+  <!-- Agentic AI -->
+  <img src="https://img.shields.io/badge/Agentic-AI-blueviolet?style=for-the-badge" />
+
+  <!-- Antigravity AI (no official public icon) -->
+  <img src="https://img.shields.io/badge/Antigravity-AI-darkblue?style=for-the-badge" />
 </p>
 
 
