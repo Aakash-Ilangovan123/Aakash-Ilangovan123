@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋 It's me AAKASH</h1>
 
-<h3 align="left">AI & DS Student @ Sethu Institute of Technology</h3>
+<h3 align="left"> Completed AI & DS  @ Sethu Institute of Technology</h3>
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 Data, AI & Tools
+### 🤖 Data Tools
 
 <p>
   <!-- Databricks -->
