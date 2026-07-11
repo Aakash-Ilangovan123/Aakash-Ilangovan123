@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Engineer · Turning raw data into pipelines, models, and dashboards that decide things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SQL+Developer+%40+Gabriel+Solutions; BBuilding+Medallion+Lakehouses+on+Databricks;Training+models%2C+shipping+dashboards;Always+learning+%E2%80%94+always+building&font=Fira+Code&center=true&width=550&height=45&color=2E86AB&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SQL+Developer+%40+Gabriel+Solutions;Building+Medallion+Lakehouses+on+Databricks;Training+models%2C+shipping+dashboards;Always+learning+%E2%80%94+always+building&font=Fira+Code&center=true&width=550&height=45&color=2E86AB&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
