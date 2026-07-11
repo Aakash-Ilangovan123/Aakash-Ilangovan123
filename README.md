@@ -1,15 +1,15 @@
 <h1 align="center">Yo, I'm Aakash 👋</h1>
-<h3 align="center">AI & Data Engineer · Turning raw data into pipelines, models, and dashboards that decide things</h3>
+<h3 align="center">AI & Data Engineer · Turning data to pipelines, models, and dashboards that decide things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SQL+Developer+%40+Gabriel+Solutions;Building+Medallion+Lakehouses+on+Databricks;Training+models%2C+shipping+dashboards;Always+learning+%E2%80%94+always+building&font=Fira+Code&center=true&width=550&height=45&color=2E86AB&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=SQL+Developer+%40+Gabriel+Solutions;Build+Medallion+Lakehouse+on+Databricks;Training+models%2C+shipping+dashboards;Always+learning+%E2%80%94+always+building&font=Fira+Code&center=true&width=550&height=45&color=2E86AB&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aakashilangovan37/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aakashmdu307@gmail.com">
+  <a href="mailto:aakashmass123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
@@ -28,7 +28,7 @@
 - 🤖 I train and ship **ML models** — from Random Forest risk scoring to CNN-based image classification
 - 📝 Published: **IEEE International Conference** paper on Smart Electricity Monitoring (Mar 2026)
 - 🌱 Currently deepening my skills in **GenAI, RAG, and Agentic AI** (LangGraph, CrewAI)
-- 📫 Reach me at **aakashmdu307@gmail.com**
+- 📫 Reach me at **aakashmass123@gmail.com**
 
 ---
 
