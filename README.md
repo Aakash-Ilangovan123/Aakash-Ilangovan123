@@ -148,6 +148,4 @@ Built a CNN + Transfer Learning model hitting 92% accuracy across 60+ food items
   💬 Open to Data Analyst, Data Engineer, and AI/ML Engineer roles — let's connect!
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_GITHUB_USERNAME&style=flat-square&color=2E86AB" alt="Profile views" />
-</p>
+
